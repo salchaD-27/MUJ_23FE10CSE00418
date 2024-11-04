@@ -1,4 +1,4 @@
-CLI Quiz Platform
+Python Based Quiz Platform
 This project is a Command-Line Interface (CLI) Quiz Application designed to offer an interactive and educational quiz experience directly from the terminal. 
 Built with Python, the application emphasizes simplicity, versatility, and ease of use while offering engaging features commonly found in advanced quiz platforms. 
 It is ideal for users looking to test their knowledge on various subjects, challenge themselves with timed quizzes, and track their progress over time.
